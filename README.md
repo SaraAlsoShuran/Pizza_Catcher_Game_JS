@@ -1,7 +1,7 @@
 # 🍕 Pizza Catcher Game 🍕
 
 ## Overview
-Pizza Catcher is a fun, interactive mini-game built with JavaScript, using Phaser and Next.js. The goal of the game is to catch as many pizzas as possible while avoiding falling trash. The higher the pizza stack, the higher your score! Players compete for the top three spots to win special discount vouchers.
+Pizza Catcher is a fun, interactive mini-game built with JavaScript, using Phaser and Next.js. The goal of the game is to catch as many pizza and other foods as possible while avoiding falling trash(empty can). The more food you catch, the higher your score! Players compete for the top three spots to win special discount vouchers.
 
 ## Gameplay Features
 Catchable Items: Players can catch pizzas, bread, ice cream, and soda to gain points.
